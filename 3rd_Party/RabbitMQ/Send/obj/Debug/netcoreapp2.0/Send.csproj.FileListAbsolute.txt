@@ -1,0 +1,4 @@
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Send\obj\Debug\netcoreapp2.0\Send.csprojAssemblyReference.cache
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Send\obj\Debug\netcoreapp2.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfoInputs.cache
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfo.cs

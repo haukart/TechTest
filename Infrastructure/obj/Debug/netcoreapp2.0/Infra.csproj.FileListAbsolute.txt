@@ -1,0 +1,41 @@
+c:\Users\Pasha\Source\Repos\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.csprojResolveAssemblyReference.cache
+c:\Users\Pasha\Source\Repos\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.csproj.CoreCompileInputs.cache
+c:\Users\Pasha\Source\Repos\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.AssemblyInfoInputs.cache
+c:\Users\Pasha\Source\Repos\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.AssemblyInfo.cs
+C:\Users\Pasha\Source\Repos\Retailer\Infra\bin\Debug\netcoreapp2.0\Infra.deps.json
+C:\Users\Pasha\Source\Repos\Retailer\Infra\bin\Debug\netcoreapp2.0\Infra.dll
+C:\Users\Pasha\Source\Repos\Retailer\Infra\bin\Debug\netcoreapp2.0\Infra.pdb
+C:\Users\Pasha\Source\Repos\Retailer\Infra\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\Pasha\Source\Repos\Retailer\Infra\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.dll
+C:\Users\Pasha\Source\Repos\Retailer\Infra\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\Pasha\Source\Repos\Retailer\Infra\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.xml
+C:\Users\Pasha\Source\Repos\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.dll
+C:\Users\Pasha\Source\Repos\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.pdb
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.csprojAssemblyReference.cache
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.AssemblyInfoInputs.cache
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.AssemblyInfo.cs
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\bin\Debug\netcoreapp2.0\Infra.deps.json
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\bin\Debug\netcoreapp2.0\Infra.dll
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\bin\Debug\netcoreapp2.0\Infra.pdb
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.dll
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.xml
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.csproj.CopyComplete
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.dll
+C:\Users\Artem\Downloads\Retailer\Retailer\Infra\obj\Debug\netcoreapp2.0\Infra.pdb
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\bin\Debug\netcoreapp2.0\Infra.deps.json
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\bin\Debug\netcoreapp2.0\Infra.dll
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\bin\Debug\netcoreapp2.0\Infra.pdb
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.dll
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.xml
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\obj\Debug\netcoreapp2.0\Infra.csprojAssemblyReference.cache
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\obj\Debug\netcoreapp2.0\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\obj\Debug\netcoreapp2.0\Infra.AssemblyInfoInputs.cache
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\obj\Debug\netcoreapp2.0\Infra.AssemblyInfo.cs
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\obj\Debug\netcoreapp2.0\Infra.csproj.CopyComplete
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\obj\Debug\netcoreapp2.0\Infra.dll
+C:\Users\Artem\Documents\Visual Studio 2017\Projects\TechTest\Infra\obj\Debug\netcoreapp2.0\Infra.pdb
